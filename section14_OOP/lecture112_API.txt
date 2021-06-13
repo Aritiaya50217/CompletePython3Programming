@@ -1,0 +1,2 @@
+Application Program Interface (API)
+API คือ ช่องทางที่นักพัฒนาโปรแกรม ออกแบบนำข้อมูลออกมาใช้งาน
